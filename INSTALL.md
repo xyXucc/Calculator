@@ -1,0 +1,9 @@
+配置：
+	Windows系统
+编译：
+	Eclipse
+安装说明：
+	1、下载scr
+	2、安装Eclipse
+	3、将下载的scr导入Eclipse中
+	4、运行
